@@ -1,1 +1,0 @@
-import{p as s}from"./app-BXm70mdJ.js";import{L as e,I as n,M as r}from"./vendor-DNM7Y6Xn.js";import"./offline-BzIlwqNM.js";import"./i18n-CBOKL2HS.js";import"./ui-BP0GJNn5.js";const o=s({name:"ResumeQuestionsManager"},[["render",function(s,o,a,i,t,m){return n(),e("div",null,o[0]||(o[0]=[r("h1",null,"Resume Questions Manager",-1)]))}]]);export{o as default};
