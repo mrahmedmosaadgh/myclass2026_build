@@ -1,1 +1,0 @@
-import{u as a}from"./use-panel-DdQZ_Vdk.js";import{E as s,S as o}from"./app-BzjXrVp9.js";import{h as p}from"./vendor-EI0FRBVb.js";const e=s({name:"QTabPanel",props:a,setup:(a,{slots:s})=>()=>p("div",{class:"q-tab-panel",role:"tabpanel"},o(s.default))});export{e as Q};
