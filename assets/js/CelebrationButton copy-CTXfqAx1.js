@@ -1,0 +1,1 @@
+import{o as e}from"./app-DOc39CFu.js";import{L as t,W as o}from"./vendor-DuKqz2x4.js";import"./offline-BzIlwqNM.js";import"./i18n-DE5KxGn8.js";import"./ui-BITzTqrO.js";const s=e({__name:"CelebrationButton copy",emits:["celebrate"],setup:(e,{emit:s})=>(e,s)=>t(e.$slots,"default",{},()=>[s[0]||(s[0]=o("Celebrate!"))],!0)},[["__scopeId","data-v-ddb1e522"]]);export{s as default};

@@ -1,1 +1,0 @@
-import{D as s,S as a}from"./app-BB4Fw2oM.js";import{h as p}from"./vendor-DuKqz2x4.js";const t=s({name:"QStepperNavigation",setup:(s,{slots:t})=>()=>p("div",{class:"q-stepper__nav"},a(t.default))});export{t as Q};
