@@ -1,1 +1,0 @@
-import{o as s}from"./app-B77gjd5a.js";import{M as o,J as r,N as a}from"./vendor-DuKqz2x4.js";import"./offline-BzIlwqNM.js";import"./i18n-DE5KxGn8.js";import"./ui-BITzTqrO.js";const t={class:"card"};const i=s({},[["render",function(s,i){return r(),o("div",t,i[0]||(i[0]=[a("div",{class:"card2"},null,-1)]))}],["__scopeId","data-v-1fadcb10"]]);export{i as default};
