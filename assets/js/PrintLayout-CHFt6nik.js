@@ -1,0 +1,1 @@
+import{N as n,J as e,R as t,S as i}from"./vendor-BWKGNkNB.js";const a={class:"hidden"},s=["innerHTML"],r={__name:"PrintLayout",props:{content:String,lineSpacing:Number,alignment:String},setup:r=>(l,o)=>(e(),n("div",a,[t("div",{class:"print-content prose max-w-none",innerHTML:r.content,style:i({lineHeight:r.lineSpacing,textAlign:r.alignment})},null,12,s)]))};export{r as default};
