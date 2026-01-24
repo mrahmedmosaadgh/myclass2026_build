@@ -1,0 +1,1 @@
+import{_ as s}from"./ResumeCommentsPanel-DM3J5kbr.js";import{N as i,J as o,b as e}from"./vendor-BWKGNkNB.js";import"./app-CCwy2VVq.js";import"./offline-BzIlwqNM.js";import"./i18n-B0T1C7j3.js";import"./ui-B7TfxbV_.js";const t={__name:"ResumeQuestion",setup:t=>(t,m)=>(o(),i("div",null,[e(s,{"question-id":t.question.id},null,8,["question-id"])]))};export{t as default};

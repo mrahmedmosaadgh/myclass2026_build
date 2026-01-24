@@ -1,0 +1,1 @@
+import{r}from"./app-CCwy2VVq.js";import{N as s,J as o,R as a}from"./vendor-BWKGNkNB.js";const d={class:"hidden sm:block"};const e=r({},[["render",function(r,e){return o(),s("div",d,e[0]||(e[0]=[a("div",{class:"py-8"},[a("div",{class:"border-t border-gray-200"})],-1)]))}]]);export{e as S};
