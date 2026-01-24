@@ -1,0 +1,1 @@
+import o from"./DynamicTreeEditor-B4ms_wDw.js";import{I as r,J as t}from"./vendor-BWKGNkNB.js";import"./TreeNode-DqxvR5Cr.js";import"./app-CmR0nRZC.js";import"./offline-BzIlwqNM.js";import"./i18n-B0T1C7j3.js";import"./ui-B7TfxbV_.js";const s={__name:"test_chart_v2",setup:s=>(s,e)=>(t(),r(o))};export{s as default};
