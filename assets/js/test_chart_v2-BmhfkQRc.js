@@ -1,0 +1,1 @@
+import{k as r,o as t}from"./feature-admin-core-BHhbEbT0.js";/* empty css                                                                           */import o from"./DynamicTreeEditor-zBgpRZgU.js";import"./vendor-xlsx-DkH2s96g.js";import"./TreeNode-DxdqkOJw.js";const n={__name:"test_chart_v2",setup(e){return(a,c)=>(t(),r(o))}};export{n as default};

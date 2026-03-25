@@ -1,1 +1,0 @@
-import e from"./LessonTemplateManager-C-ZtFTRs.js";import{k as o,o as r}from"./feature-admin-core-DYIOaiuP.js";import"./lessonPresentationStore-BTe3H8EK.js";import"./vendor-xlsx-DkH2s96g.js";const _={__name:"index",setup(t){return(a,p)=>(r(),o(e))}};export{_ as default};
