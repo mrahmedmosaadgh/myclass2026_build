@@ -1,0 +1,12 @@
+import{_ as l}from"./feature-Communication-ty4n7VHF.js";import{_ as d}from"./comp-section-firebase-DbYlGod9.js";import{d as a}from"./comp-section-chat-gTjEVtvu.js";import{f as u,M as g,A as p,O as i,S as t,i as m,W as r,Y as o}from"./comp-section-ai-7fKxE7Nv.js";import"./comp-section-common-CAMG35ID.js";import"./vendor-xlsx-DkH2s96g.js";import"./vendor-firebase-BEwUTpjH.js";const c={class:"py-12"},b={class:"max-w-7xl mx-auto sm:px-6 lg:px-8"},f={class:"bg-white dark:bg-gray-800 overflow-hidden shadow-xl sm:rounded-lg p-6"},x={class:"mt-8"},y={class:"bg-gray-100 dark:bg-gray-700 p-4 rounded-lg"},_={class:"mb-2"},v={class:"mb-2"},j={__name:"Test",setup(h){const s=u(()=>{try{return{projectId:a._repoInternal.app.options.projectId,databaseURL:a._repoInternal.databaseURL,authDomain:a._repoInternal.app.options.authDomain}}catch(n){return console.error("Error getting Firebase config:",n),{projectId:"Error retrieving config",databaseURL:"Error retrieving config",authDomain:"Error retrieving config"}}});return(n,e)=>(p(),g(l,{title:"Firebase Test"},{header:i(()=>e[0]||(e[0]=[t("h2",{class:"font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight"}," Firebase Connection Test ",-1)])),default:i(()=>[t("div",c,[t("div",b,[t("div",f,[e[5]||(e[5]=t("p",{class:"mb-4 text-gray-600 dark:text-gray-400"}," This page allows you to test your Firebase connection and verify that read/write operations are working correctly. ",-1)),m(d),t("div",x,[e[4]||(e[4]=t("h3",{class:"text-lg font-medium mb-2"},"Firebase Configuration",-1)),t("div",y,[t("p",_,[e[1]||(e[1]=t("strong",null,"Project ID:",-1)),r(" "+o(s.value.projectId),1)]),t("p",v,[e[2]||(e[2]=t("strong",null,"Database URL:",-1)),r(" "+o(s.value.databaseURL),1)]),t("p",null,[e[3]||(e[3]=t("strong",null,"Auth Domain:",-1)),r(" "+o(s.value.authDomain),1)])])]),e[6]||(e[6]=t("div",{class:"mt-8"},[t("h3",{class:"text-lg font-medium mb-2"},"Firebase Security Rules"),t("p",{class:"mb-4 text-gray-600 dark:text-gray-400"},[r(" Make sure you've set up your Firebase security rules correctly. The test component requires read/write access to the "),t("code",null,"firebase_test"),r(" path. ")]),t("div",{class:"bg-gray-100 dark:bg-gray-700 p-4 rounded-lg overflow-auto"},[t("pre",{class:"text-xs"},`{
+  "rules": {
+    // Your existing rules...
+    
+    // Add this rule for testing
+    "firebase_test": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
+              `)])],-1))])])])]),_:1}))}};export{j as default};
