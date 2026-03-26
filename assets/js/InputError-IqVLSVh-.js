@@ -1,1 +1,0 @@
-import{Y as s,aB as a,ac as t,ad as r,ae as c,ai as o}from"./feature-classroom-records-BVzcKgo-.js";const n={class:"text-sm text-red-600"},p={__name:"InputError",props:{message:String},setup(e){return(i,m)=>s((t(),r("div",null,[c("p",n,o(e.message),1)],512)),[[a,e.message]])}};export{p as _};

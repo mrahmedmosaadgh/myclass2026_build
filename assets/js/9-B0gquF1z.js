@@ -1,0 +1,1 @@
+import{b as s}from"./app-ByedI2Go.js";import{V as t,Z as a,a1 as o}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-CYOMVQO5.js";const r={},c={class:"container"};function n(_,e){return t(),a("div",c,[...e[0]||(e[0]=[o("div",{class:"card_box"},[o("span")],-1)])])}const p=s(r,[["render",n],["__scopeId","data-v-29097f9c"]]);export{p as default};

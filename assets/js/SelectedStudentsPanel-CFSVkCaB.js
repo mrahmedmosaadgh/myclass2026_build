@@ -1,1 +1,0 @@
-import{ac as e,ad as t}from"./feature-classroom-records-BVzcKgo-.js";import"./vendor-firebase-CYOMVQO5.js";import"./feature-Communication-CmyvtPLQ.js";import"./feature-Gamification-B6v894k_.js";import"./vendor-draggable-CRx0L8jK.js";const _={__name:"SelectedStudentsPanel",setup(r){return(o,a)=>(e(),t("div"))}};export{_ as default};

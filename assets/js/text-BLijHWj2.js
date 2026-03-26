@@ -1,0 +1,1 @@
+import{b as e}from"./app-ByedI2Go.js";import{V as t,Z as o}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-CYOMVQO5.js";const c={},s={class:"shine"};function r(n,_){return t(),o("div",s,"UIVERSE")}const i=e(c,[["render",r],["__scopeId","data-v-4f564d86"]]);export{i as default};

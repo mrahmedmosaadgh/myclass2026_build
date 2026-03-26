@@ -1,0 +1,1 @@
+import{b as t}from"./app-ByedI2Go.js";import{V as s,Z as o,a1 as a}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-CYOMVQO5.js";const c={},r={class:"package"};function n(_,e){return s(),o("div",r,[...e[0]||(e[0]=[a("div",{class:"package2"},[a("p",{class:"text"},"Nitro Style")],-1)])])}const i=t(c,[["render",n],["__scopeId","data-v-7ae5aff9"]]);export{i as default};
