@@ -1,1 +1,0 @@
-import{a6 as s,z as n,A as a,S as t}from"./comp-section-ai-7fKxE7Nv.js";const o={name:"ResumeQuestionsManager"};function r(u,e,c,i,l,m){return a(),n("div",null,e[0]||(e[0]=[t("h1",null,"Resume Questions Manager",-1)]))}const d=s(o,[["render",r]]);export{d as default};
