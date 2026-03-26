@@ -826,8 +826,8 @@
       "_feature-admin-core-BHhbEbT0.js"
     ]
   },
-  "_schoolData-Bep56Z8i.js": {
-    "file": "assets/js/schoolData-Bep56Z8i.js",
+  "_schoolData-DYqHAa4j.js": {
+    "file": "assets/js/schoolData-DYqHAa4j.js",
     "name": "schoolData",
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
@@ -896,16 +896,16 @@
       "_feature-admin-core-BHhbEbT0.js"
     ]
   },
-  "_useQuizI18n-DIi-GX6H.js": {
-    "file": "assets/js/useQuizI18n-DIi-GX6H.js",
+  "_useQuizI18n-rKFNLpBL.js": {
+    "file": "assets/js/useQuizI18n-rKFNLpBL.js",
     "name": "useQuizI18n",
     "imports": [
       "resources/js/app.js",
       "_feature-admin-core-BHhbEbT0.js"
     ]
   },
-  "_useQuizI18n-DmbP_Plv.js": {
-    "file": "assets/js/useQuizI18n-DmbP_Plv.js",
+  "_useQuizI18n-yMpCm5h5.js": {
+    "file": "assets/js/useQuizI18n-yMpCm5h5.js",
     "name": "useQuizI18n",
     "imports": [
       "resources/js/app.js",
@@ -928,12 +928,12 @@
       "_feature-admin-core-BHhbEbT0.js"
     ]
   },
-  "_useWeeklyPlansStore-B9azoFi8.js": {
-    "file": "assets/js/useWeeklyPlansStore-B9azoFi8.js",
+  "_useWeeklyPlansStore-BXGtZPkd.js": {
+    "file": "assets/js/useWeeklyPlansStore-BXGtZPkd.js",
     "name": "useWeeklyPlansStore",
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_schoolData-Bep56Z8i.js"
+      "_schoolData-DYqHAa4j.js"
     ]
   },
   "_vendor-firebase-DcYLGjO2.js": {
@@ -1848,7 +1848,7 @@
     ]
   },
   "resources/js/Pages/DocumentationPortal/Index.vue": {
-    "file": "assets/js/Index-6Bn5dkcR.js",
+    "file": "assets/js/Index-Dj8PAUDf.js",
     "name": "Index",
     "src": "resources/js/Pages/DocumentationPortal/Index.vue",
     "isDynamicEntry": true,
@@ -1935,7 +1935,7 @@
     ]
   },
   "resources/js/Pages/MicroComponentTest/Index.vue": {
-    "file": "assets/js/Index-B_GUyRym.js",
+    "file": "assets/js/Index-PMOPKpdo.js",
     "name": "Index",
     "src": "resources/js/Pages/MicroComponentTest/Index.vue",
     "isDynamicEntry": true,
@@ -2723,7 +2723,7 @@
     ]
   },
   "resources/js/Pages/NetworkTest.vue": {
-    "file": "assets/js/NetworkTest-B8wQKVk-.js",
+    "file": "assets/js/NetworkTest-ChtEbCc0.js",
     "name": "NetworkTest",
     "src": "resources/js/Pages/NetworkTest.vue",
     "isDynamicEntry": true,
@@ -2791,7 +2791,7 @@
     ]
   },
   "resources/js/Pages/OfflineTest.vue": {
-    "file": "assets/js/OfflineTest-seZ7JH1F.js",
+    "file": "assets/js/OfflineTest-DLj6p7rt.js",
     "name": "OfflineTest",
     "src": "resources/js/Pages/OfflineTest.vue",
     "isDynamicEntry": true,
@@ -3205,7 +3205,7 @@
     ]
   },
   "resources/js/Pages/dailyTasks/dp_DailyPlanner.vue": {
-    "file": "assets/js/dp_DailyPlanner-6J-FdnAS.js",
+    "file": "assets/js/dp_DailyPlanner-OcgrLidG.js",
     "name": "dp_DailyPlanner",
     "src": "resources/js/Pages/dailyTasks/dp_DailyPlanner.vue",
     "isDynamicEntry": true,
@@ -3380,7 +3380,7 @@
     ]
   },
   "resources/js/Pages/developer/ticktick/Index.vue": {
-    "file": "assets/js/Index-03lptfHu.js",
+    "file": "assets/js/Index-Lnk9k1ni.js",
     "name": "Index",
     "src": "resources/js/Pages/developer/ticktick/Index.vue",
     "isDynamicEntry": true,
@@ -3437,7 +3437,7 @@
     ]
   },
   "resources/js/Pages/developer/ticktick/components/FocusMode.vue": {
-    "file": "assets/js/FocusMode-DW6Cws1W.js",
+    "file": "assets/js/FocusMode-kvT-N_LD.js",
     "name": "FocusMode",
     "src": "resources/js/Pages/developer/ticktick/components/FocusMode.vue",
     "isDynamicEntry": true,
@@ -3472,7 +3472,7 @@
     ]
   },
   "resources/js/Pages/developer/ticktick/components/MainTaskList.vue": {
-    "file": "assets/js/MainTaskList-D4U57Tpt.js",
+    "file": "assets/js/MainTaskList-tGdVgu-2.js",
     "name": "MainTaskList",
     "src": "resources/js/Pages/developer/ticktick/components/MainTaskList.vue",
     "isDynamicEntry": true,
@@ -3523,7 +3523,7 @@
     ]
   },
   "resources/js/Pages/developer/ticktick/components/PomodoroTimer.vue": {
-    "file": "assets/js/PomodoroTimer-BcVvtKor.js",
+    "file": "assets/js/PomodoroTimer-w6DYcboi.js",
     "name": "PomodoroTimer",
     "src": "resources/js/Pages/developer/ticktick/components/PomodoroTimer.vue",
     "isDynamicEntry": true,
@@ -3568,7 +3568,7 @@
     ]
   },
   "resources/js/Pages/developer/ticktick/components/TaskTree.vue": {
-    "file": "assets/js/TaskTree-Czzsk8JS.js",
+    "file": "assets/js/TaskTree-BgNXuNPY.js",
     "name": "TaskTree",
     "src": "resources/js/Pages/developer/ticktick/components/TaskTree.vue",
     "isDynamicEntry": true,
@@ -3674,7 +3674,7 @@
     ]
   },
   "resources/js/Pages/modules/resumes/qbank/ResumeQuestionsManager.vue": {
-    "file": "assets/js/ResumeQuestionsManager-CyJ1DYzX.js",
+    "file": "assets/js/ResumeQuestionsManager-E4CAWK8T.js",
     "name": "ResumeQuestionsManager",
     "src": "resources/js/Pages/modules/resumes/qbank/ResumeQuestionsManager.vue",
     "isDynamicEntry": true,
@@ -3930,7 +3930,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuAnalyticsDashboard.vue": {
-    "file": "assets/js/QuAnalyticsDashboard-CDNBgnlB.js",
+    "file": "assets/js/QuAnalyticsDashboard-Bo-hbLwy.js",
     "name": "QuAnalyticsDashboard",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuAnalyticsDashboard.vue",
     "isDynamicEntry": true,
@@ -3948,7 +3948,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuExamQuestionSelector.vue": {
-    "file": "assets/js/QuExamQuestionSelector-7TLGnZ9q.js",
+    "file": "assets/js/QuExamQuestionSelector-CqVqYgmV.js",
     "name": "QuExamQuestionSelector",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuExamQuestionSelector.vue",
     "isDynamicEntry": true,
@@ -3977,7 +3977,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue": {
-    "file": "assets/js/QuQuestionAIGeneratorDialog-9i4NWVEQ.js",
+    "file": "assets/js/QuQuestionAIGeneratorDialog-C5CR7et4.js",
     "name": "QuQuestionAIGeneratorDialog",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
     "isDynamicEntry": true,
@@ -4005,7 +4005,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamDetails.vue": {
-    "file": "assets/js/QuExamDetails-BQ8fE7lF.js",
+    "file": "assets/js/QuExamDetails-DwzshP7h.js",
     "name": "QuExamDetails",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamDetails.vue",
     "isDynamicEntry": true,
@@ -4023,7 +4023,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamEditor.vue": {
-    "file": "assets/js/QuExamEditor-CTdgCQ_l.js",
+    "file": "assets/js/QuExamEditor-DBMSC-KO.js",
     "name": "QuExamEditor",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamEditor.vue",
     "isDynamicEntry": true,
@@ -4045,7 +4045,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamForm.vue": {
-    "file": "assets/js/QuExamForm-BeITKXPB.js",
+    "file": "assets/js/QuExamForm-Bxsh9k26.js",
     "name": "QuExamForm",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamForm.vue",
     "isDynamicEntry": true,
@@ -4066,7 +4066,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamList.vue": {
-    "file": "assets/js/QuExamList-rhTaXqH-.js",
+    "file": "assets/js/QuExamList-fBbiCn6n.js",
     "name": "QuExamList",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamList.vue",
     "isDynamicEntry": true,
@@ -4099,7 +4099,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamResults.vue": {
-    "file": "assets/js/QuExamResults-B-9lEdSJ.js",
+    "file": "assets/js/QuExamResults-D53C8zgj.js",
     "name": "QuExamResults",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamResults.vue",
     "isDynamicEntry": true,
@@ -4117,7 +4117,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamShow.vue": {
-    "file": "assets/js/QuExamShow-Bljsm6lK.js",
+    "file": "assets/js/QuExamShow-C-M6j6ky.js",
     "name": "QuExamShow",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuExamShow.vue",
     "isDynamicEntry": true,
@@ -4133,7 +4133,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuGrading.vue": {
-    "file": "assets/js/QuGrading-BYlVC0qj.js",
+    "file": "assets/js/QuGrading-BBMXRr5p.js",
     "name": "QuGrading",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuGrading.vue",
     "isDynamicEntry": true,
@@ -4151,7 +4151,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuGradingDialog.vue": {
-    "file": "assets/js/QuGradingDialog-BKcvWWbp.js",
+    "file": "assets/js/QuGradingDialog-JxYBVxbH.js",
     "name": "QuGradingDialog",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuGradingDialog.vue",
     "isDynamicEntry": true,
@@ -4169,7 +4169,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuGradingList.vue": {
-    "file": "assets/js/QuGradingList-5iLxM6Jr.js",
+    "file": "assets/js/QuGradingList-CVacoQPm.js",
     "name": "QuGradingList",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuGradingList.vue",
     "isDynamicEntry": true,
@@ -4184,7 +4184,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuQuestionForm.vue": {
-    "file": "assets/js/QuQuestionForm-IrJVbG7A.js",
+    "file": "assets/js/QuQuestionForm-Dxqz_Mr8.js",
     "name": "QuQuestionForm",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuQuestionForm.vue",
     "isDynamicEntry": true,
@@ -4199,7 +4199,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuQuestionList.vue": {
-    "file": "assets/js/QuQuestionList-CYmEp7_Z.js",
+    "file": "assets/js/QuQuestionList-COV7PC8B.js",
     "name": "QuQuestionList",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuQuestionList.vue",
     "isDynamicEntry": true,
@@ -4345,7 +4345,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuStudentExamList.vue": {
-    "file": "assets/js/QuStudentExamList-4dfRgFiv.js",
+    "file": "assets/js/QuStudentExamList-D9Eex-ob.js",
     "name": "QuStudentExamList",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuStudentExamList.vue",
     "isDynamicEntry": true,
@@ -4363,7 +4363,7 @@
     ]
   },
   "resources/js/Pages/my_class/QuQuestionBankSystem/QuTakeExam.vue": {
-    "file": "assets/js/QuTakeExam-BRLMxbcX.js",
+    "file": "assets/js/QuTakeExam-DnbwgVk7.js",
     "name": "QuTakeExam",
     "src": "resources/js/Pages/my_class/QuQuestionBankSystem/QuTakeExam.vue",
     "isDynamicEntry": true,
@@ -5051,7 +5051,7 @@
     ]
   },
   "resources/js/Pages/my_class/page_test/cards_vue/master-component.vue": {
-    "file": "assets/js/master-component-CLwYd3Gb.js",
+    "file": "assets/js/master-component-Lzg65MhA.js",
     "name": "master-component",
     "src": "resources/js/Pages/my_class/page_test/cards_vue/master-component.vue",
     "isDynamicEntry": true,
@@ -5271,7 +5271,7 @@
     ]
   },
   "resources/js/Pages/my_class/page_test/page_test.vue": {
-    "file": "assets/js/page_test-DrqQXWhk.js",
+    "file": "assets/js/page_test-BhhaHFUP.js",
     "name": "page_test",
     "src": "resources/js/Pages/my_class/page_test/page_test.vue",
     "isDynamicEntry": true,
@@ -5294,7 +5294,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/DynamicTable.vue": {
-    "file": "assets/js/DynamicTable-B8Q-T04C.js",
+    "file": "assets/js/DynamicTable-72q4_-gh.js",
     "name": "DynamicTable",
     "src": "resources/js/Pages/my_table_mnger/DynamicTable.vue",
     "isDynamicEntry": true,
@@ -5312,7 +5312,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/JsonDataTable.vue": {
-    "file": "assets/js/JsonDataTable-C5t_owho.js",
+    "file": "assets/js/JsonDataTable-CL1gxQZb.js",
     "name": "JsonDataTable",
     "src": "resources/js/Pages/my_table_mnger/JsonDataTable.vue",
     "isDynamicEntry": true,
@@ -5352,7 +5352,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/TableManager.vue": {
-    "file": "assets/js/TableManager-D-0ZaAxk.js",
+    "file": "assets/js/TableManager-BCuL1JE2.js",
     "name": "TableManager",
     "src": "resources/js/Pages/my_table_mnger/TableManager.vue",
     "isDynamicEntry": true,
@@ -5813,7 +5813,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys.vue": {
-    "file": "assets/js/reward_sys-MUd7eoIH.js",
+    "file": "assets/js/reward_sys-BzsE01jv.js",
     "name": "reward_sys",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys.vue",
     "isDynamicEntry": true,
@@ -5889,7 +5889,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/BehaviorIncidents.vue": {
-    "file": "assets/js/BehaviorIncidents-BwrnqiYc.js",
+    "file": "assets/js/BehaviorIncidents-CmCETQjL.js",
     "name": "BehaviorIncidents",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/BehaviorIncidents.vue",
     "isDynamicEntry": true,
@@ -5949,7 +5949,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/ClassroomSelection.vue": {
-    "file": "assets/js/ClassroomSelection-BA6agQm-.js",
+    "file": "assets/js/ClassroomSelection-DI90Sh2A.js",
     "name": "ClassroomSelection",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/ClassroomSelection.vue",
     "isDynamicEntry": true,
@@ -5993,7 +5993,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/PeriodSelectionRefactored.vue": {
-    "file": "assets/js/PeriodSelectionRefactored-BYjKLb0s.js",
+    "file": "assets/js/PeriodSelectionRefactored-Dp0VfDng.js",
     "name": "PeriodSelectionRefactored",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/PeriodSelectionRefactored.vue",
     "isDynamicEntry": true,
@@ -6062,7 +6062,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/StudentCard.vue": {
-    "file": "assets/js/StudentCard-COWlL_0V.js",
+    "file": "assets/js/StudentCard-n6ysT9xE.js",
     "name": "StudentCard",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/StudentCard.vue",
     "isDynamicEntry": true,
@@ -6109,7 +6109,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/TopLeaderboard.vue": {
-    "file": "assets/js/TopLeaderboard-BS9i3x_y.js",
+    "file": "assets/js/TopLeaderboard-vud2HacB.js",
     "name": "TopLeaderboard",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/TopLeaderboard.vue",
     "isDynamicEntry": true,
@@ -6229,7 +6229,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/settings.vue": {
-    "file": "assets/js/settings-dK6zzphf.js",
+    "file": "assets/js/settings-BFtwvOBm.js",
     "name": "settings",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/settings.vue",
     "isDynamicEntry": true,
@@ -6253,7 +6253,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/students_table.vue": {
-    "file": "assets/js/students_table-DnarrPQ9.js",
+    "file": "assets/js/students_table-Bbrk7zAE.js",
     "name": "students_table",
     "src": "resources/js/Pages/my_table_mnger/reward_sys/reward_sys_comp/students_table.vue",
     "isDynamicEntry": true,
@@ -6288,7 +6288,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/StudentScheduleView.vue": {
-    "file": "assets/js/StudentScheduleView-Bz8iSr9m.js",
+    "file": "assets/js/StudentScheduleView-CcsCWsV_.js",
     "name": "StudentScheduleView",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/StudentScheduleView.vue",
     "isDynamicEntry": true,
@@ -6308,7 +6308,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/TeacherScheduleView.vue": {
-    "file": "assets/js/TeacherScheduleView-CJhbFdmC.js",
+    "file": "assets/js/TeacherScheduleView-BK3qjv5n.js",
     "name": "TeacherScheduleView",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/TeacherScheduleView.vue",
     "isDynamicEntry": true,
@@ -6345,7 +6345,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/WeeklyPlanMenu.vue": {
-    "file": "assets/js/WeeklyPlanMenu-B9v_Z7cM.js",
+    "file": "assets/js/WeeklyPlanMenu-B30Tzd4f.js",
     "name": "WeeklyPlanMenu",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/WeeklyPlanMenu.vue",
     "isDynamicEntry": true,
@@ -6359,7 +6359,7 @@
       "_feature-teacher-portal-Bj6_yTWx.js",
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue"
     ],
     "css": [
@@ -6367,14 +6367,14 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/SchoolBrowser.vue": {
-    "file": "assets/js/SchoolBrowser-JZLzDLjN.js",
+    "file": "assets/js/SchoolBrowser-Bk_LtCja.js",
     "name": "SchoolBrowser",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/SchoolBrowser.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/WeeklyPlanMenu.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/admin/components/SchoolOverview.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/admin/components/ClassroomHierarchy.vue",
@@ -6393,7 +6393,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/TimetableEditor.vue": {
-    "file": "assets/js/TimetableEditor-B1mcQx5W.js",
+    "file": "assets/js/TimetableEditor-CbTsupBy.js",
     "name": "TimetableEditor",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/TimetableEditor.vue",
     "isDynamicEntry": true,
@@ -6416,7 +6416,7 @@
       "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/TimetableCell.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/WeeklySystemGuide.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/MainSchoolData.vue",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/CSTSyncDialog.vue"
     ],
@@ -6425,27 +6425,27 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanClassroomView.vue": {
-    "file": "assets/js/WeeklyPlanClassroomView-D9iRuLm4.js",
+    "file": "assets/js/WeeklyPlanClassroomView-WxshlExJ.js",
     "name": "WeeklyPlanClassroomView",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanClassroomView.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
-      "_useWeeklyPlansStore-B9azoFi8.js",
+      "_useWeeklyPlansStore-BXGtZPkd.js",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
-      "_schoolData-Bep56Z8i.js"
+      "_schoolData-DYqHAa4j.js"
     ],
     "css": [
       "assets/css/WeeklyPlanClassroomView-_hlUms1O.css"
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanClassroomView2.vue": {
-    "file": "assets/js/WeeklyPlanClassroomView2-BaUOr1jd.js",
+    "file": "assets/js/WeeklyPlanClassroomView2-CoO2HUPU.js",
     "name": "WeeklyPlanClassroomView2",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanClassroomView2.vue",
     "isDynamicEntry": true,
@@ -6464,7 +6464,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanStats.vue": {
-    "file": "assets/js/WeeklyPlanStats-XzY_QmSo.js",
+    "file": "assets/js/WeeklyPlanStats-HARjRKwF.js",
     "name": "WeeklyPlanStats",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanStats.vue",
     "isDynamicEntry": true,
@@ -6473,17 +6473,17 @@
       "resources/js/app.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/CompletionProgressBar.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/shared/StatusBadge.vue",
-      "_useWeeklyPlansStore-B9azoFi8.js",
+      "_useWeeklyPlansStore-BXGtZPkd.js",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
-      "_schoolData-Bep56Z8i.js"
+      "_schoolData-DYqHAa4j.js"
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanSync.vue": {
-    "file": "assets/js/WeeklyPlanSync-C5CoH4up.js",
+    "file": "assets/js/WeeklyPlanSync-DUrYszTV.js",
     "name": "WeeklyPlanSync",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanSync.vue",
     "isDynamicEntry": true,
@@ -6499,7 +6499,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlansManager.vue": {
-    "file": "assets/js/WeeklyPlansManager-Bj_QrkD8.js",
+    "file": "assets/js/WeeklyPlansManager-CkzjHkdN.js",
     "name": "WeeklyPlansManager",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlansManager.vue",
     "isDynamicEntry": true,
@@ -6511,7 +6511,7 @@
       "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanStats.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/admin/WeeklyPlanClassroomView.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/admin/components/WeeklyPlansFilterBar.vue",
-      "_useWeeklyPlansStore-B9azoFi8.js",
+      "_useWeeklyPlansStore-BXGtZPkd.js",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -6519,7 +6519,7 @@
       "_feature-focus-grid-B6VZgcAT.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/WeeklySystemGuide.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/MainSchoolData.vue",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue",
       "_QCircularProgress-BD2DJ5F4.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/CompletionProgressBar.vue",
@@ -6570,34 +6570,34 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/admin/components/WeeklyPlansFilterBar.vue": {
-    "file": "assets/js/WeeklyPlansFilterBar-DMJ62Qdi.js",
+    "file": "assets/js/WeeklyPlansFilterBar-D8YxHjTg.js",
     "name": "WeeklyPlansFilterBar",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/admin/components/WeeklyPlansFilterBar.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
-      "_useWeeklyPlansStore-B9azoFi8.js",
+      "_useWeeklyPlansStore-BXGtZPkd.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeekSelector.vue",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
-      "_schoolData-Bep56Z8i.js"
+      "_schoolData-DYqHAa4j.js"
     ],
     "css": [
       "assets/css/WeeklyPlansFilterBar-DmFyT2WW.css"
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/MainSchoolData.vue": {
-    "file": "assets/js/MainSchoolData-D3HEM7XU.js",
+    "file": "assets/js/MainSchoolData-BBLwLyOG.js",
     "name": "MainSchoolData",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/MainSchoolData.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
@@ -6611,13 +6611,13 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue": {
-    "file": "assets/js/SchoolSettingsDialog-Bj5rcliI.js",
+    "file": "assets/js/SchoolSettingsDialog-BNO6kHdB.js",
     "name": "SchoolSettingsDialog",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -6627,7 +6627,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/WeeklyPlanClassroomList.vue": {
-    "file": "assets/js/WeeklyPlanClassroomList-C2SGvWhB.js",
+    "file": "assets/js/WeeklyPlanClassroomList-COn0clp_.js",
     "name": "WeeklyPlanClassroomList",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/WeeklyPlanClassroomList.vue",
     "isDynamicEntry": true,
@@ -6656,7 +6656,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/schedule-copies/ScheduleCopyCard.vue": {
-    "file": "assets/js/ScheduleCopyCard-Bpu8vq-Z.js",
+    "file": "assets/js/ScheduleCopyCard-BWcm-Gf8.js",
     "name": "ScheduleCopyCard",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/schedule-copies/ScheduleCopyCard.vue",
     "isDynamicEntry": true,
@@ -6675,13 +6675,13 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/schedule-copies/ScheduleCopyFilters.vue": {
-    "file": "assets/js/ScheduleCopyFilters-nEaTm9J5.js",
+    "file": "assets/js/ScheduleCopyFilters-CpJ49Ga1.js",
     "name": "ScheduleCopyFilters",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/schedule-copies/ScheduleCopyFilters.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -6691,13 +6691,13 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/schedule-copies/ScheduleCopyForm.vue": {
-    "file": "assets/js/ScheduleCopyForm-BwXHAftE.js",
+    "file": "assets/js/ScheduleCopyForm-DM9Pnlp0.js",
     "name": "ScheduleCopyForm",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/schedule-copies/ScheduleCopyForm.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -6737,7 +6737,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/shared/StatusBadge.vue": {
-    "file": "assets/js/StatusBadge-CMNgd-vA.js",
+    "file": "assets/js/StatusBadge-Du5YmNEH.js",
     "name": "StatusBadge",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/shared/StatusBadge.vue",
     "isDynamicEntry": true,
@@ -6775,14 +6775,14 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/CSTOverviewDialog.vue": {
-    "file": "assets/js/CSTOverviewDialog-DANuu8nF.js",
+    "file": "assets/js/CSTOverviewDialog-BLsufMc3.js",
     "name": "CSTOverviewDialog",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/CSTOverviewDialog.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/CSTSyncDialog.vue",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
@@ -6795,13 +6795,13 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/CSTSyncDialog.vue": {
-    "file": "assets/js/CSTSyncDialog-BomPh8AE.js",
+    "file": "assets/js/CSTSyncDialog-Bo2Pt0-i.js",
     "name": "CSTSyncDialog",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/CSTSyncDialog.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -6834,7 +6834,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/DraftManagementPanel.vue": {
-    "file": "assets/js/DraftManagementPanel-k7eWjNPm.js",
+    "file": "assets/js/DraftManagementPanel-BNIN48sV.js",
     "name": "DraftManagementPanel",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/DraftManagementPanel.vue",
     "isDynamicEntry": true,
@@ -6862,7 +6862,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/TimetableCell.vue": {
-    "file": "assets/js/TimetableCell-QHOrh5J6.js",
+    "file": "assets/js/TimetableCell-BGINiGeq.js",
     "name": "TimetableCell",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/TimetableCell.vue",
     "isDynamicEntry": true,
@@ -6880,7 +6880,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/TimetableGrid.vue": {
-    "file": "assets/js/TimetableGrid-CRQl7OFd.js",
+    "file": "assets/js/TimetableGrid-CqOf9mDH.js",
     "name": "TimetableGrid",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/timetable/TimetableGrid.vue",
     "isDynamicEntry": true,
@@ -6912,7 +6912,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeekSelector.vue": {
-    "file": "assets/js/WeekSelector-CxpfGzXN.js",
+    "file": "assets/js/WeekSelector-CmSl9xuG.js",
     "name": "WeekSelector",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeekSelector.vue",
     "isDynamicEntry": true,
@@ -6927,7 +6927,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeeklyPlanEditor.vue": {
-    "file": "assets/js/WeeklyPlanEditor-CZyBHVdc.js",
+    "file": "assets/js/WeeklyPlanEditor-CTfAEvs8.js",
     "name": "WeeklyPlanEditor",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeeklyPlanEditor.vue",
     "isDynamicEntry": true,
@@ -6942,7 +6942,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeeklyPlanSyncDashboard.vue": {
-    "file": "assets/js/WeeklyPlanSyncDashboard-CW7rSJi4.js",
+    "file": "assets/js/WeeklyPlanSyncDashboard-DWP8ilvu.js",
     "name": "WeeklyPlanSyncDashboard",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeeklyPlanSyncDashboard.vue",
     "isDynamicEntry": true,
@@ -6950,20 +6950,20 @@
       "_feature-admin-core-BHhbEbT0.js",
       "_QCircularProgress-BD2DJ5F4.js",
       "resources/js/app.js",
-      "_useWeeklyPlansStore-B9azoFi8.js",
+      "_useWeeklyPlansStore-BXGtZPkd.js",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
-      "_schoolData-Bep56Z8i.js"
+      "_schoolData-DYqHAa4j.js"
     ],
     "css": [
       "assets/css/WeeklyPlanSyncDashboard-CPOCNoi4.css"
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/teacher/MySchedule.vue": {
-    "file": "assets/js/MySchedule-D8giYNef.js",
+    "file": "assets/js/MySchedule-P7YlwExF.js",
     "name": "MySchedule",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/teacher/MySchedule.vue",
     "isDynamicEntry": true,
@@ -6978,7 +6978,7 @@
       "_feature-focus-grid-B6VZgcAT.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/WeeklySystemGuide.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/MainSchoolData.vue",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue"
     ],
     "css": [
@@ -6986,14 +6986,14 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/teacher/MyWeeklyPlans.vue": {
-    "file": "assets/js/MyWeeklyPlans-C_EXkCuZ.js",
+    "file": "assets/js/MyWeeklyPlans-H6u_ZYRx.js",
     "name": "MyWeeklyPlans",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/teacher/MyWeeklyPlans.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
-      "_useWeeklyPlansStore-B9azoFi8.js",
+      "_useWeeklyPlansStore-BXGtZPkd.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeekSelector.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/weekly-plans/WeeklyPlanEditor.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/WeeklyPlanClassroomList.vue",
@@ -7004,7 +7004,7 @@
       "_feature-teacher-portal-Bj6_yTWx.js",
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
-      "_schoolData-Bep56Z8i.js",
+      "_schoolData-DYqHAa4j.js",
       "resources/js/Pages/my_table_mnger/weekly_system/components/WeeklySystemGuide.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/MainSchoolData.vue",
       "resources/js/Pages/my_table_mnger/weekly_system/components/SchoolSettingsDialog.vue"
@@ -7014,7 +7014,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/teacher/SimpleWeeklyPlans.vue": {
-    "file": "assets/js/SimpleWeeklyPlans-CdEX2r_i.js",
+    "file": "assets/js/SimpleWeeklyPlans-D-OHTY7u.js",
     "name": "SimpleWeeklyPlans",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/teacher/SimpleWeeklyPlans.vue",
     "isDynamicEntry": true,
@@ -7036,7 +7036,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/teacher/WeeklyPlanEditor.vue": {
-    "file": "assets/js/WeeklyPlanEditor-CIYWY5F4.js",
+    "file": "assets/js/WeeklyPlanEditor-DDF0523W.js",
     "name": "WeeklyPlanEditor",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/teacher/WeeklyPlanEditor.vue",
     "isDynamicEntry": true,
@@ -7054,7 +7054,7 @@
     ]
   },
   "resources/js/Pages/my_table_mnger/weekly_system/teacher/WeeklyPlansTable.vue": {
-    "file": "assets/js/WeeklyPlansTable-BBBbsqb7.js",
+    "file": "assets/js/WeeklyPlansTable-BQsFst1k.js",
     "name": "WeeklyPlansTable",
     "src": "resources/js/Pages/my_table_mnger/weekly_system/teacher/WeeklyPlansTable.vue",
     "isDynamicEntry": true,
@@ -7187,7 +7187,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Communication/PrivateChat/Chat.vue": {
-    "file": "assets/js/Chat-D0NJZnMZ.js",
+    "file": "assets/js/Chat-B2yetD-1.js",
     "name": "Chat",
     "src": "resources/js/Pages/myclass2026/features/Communication/PrivateChat/Chat.vue",
     "isDynamicEntry": true,
@@ -7303,7 +7303,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/classwork_records.vue": {
-    "file": "assets/js/classwork_records-DEA_5bs-.js",
+    "file": "assets/js/classwork_records-U-P49bV9.js",
     "name": "classwork_records",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/classwork_records.vue",
     "isDynamicEntry": true,
@@ -7676,7 +7676,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys.vue": {
-    "file": "assets/js/reward_sys-z4foiM9T.js",
+    "file": "assets/js/reward_sys-Cu6zJJxz.js",
     "name": "reward_sys",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys.vue",
     "isDynamicEntry": true,
@@ -7741,7 +7741,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/BehaviorIncidents.vue": {
-    "file": "assets/js/BehaviorIncidents-CmvPk4bz.js",
+    "file": "assets/js/BehaviorIncidents-CAsBbSKf.js",
     "name": "BehaviorIncidents",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/BehaviorIncidents.vue",
     "isDynamicEntry": true,
@@ -7801,7 +7801,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/ClassroomSelection.vue": {
-    "file": "assets/js/ClassroomSelection-OQPZU-Qg.js",
+    "file": "assets/js/ClassroomSelection-V9QTYcTP.js",
     "name": "ClassroomSelection",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/ClassroomSelection.vue",
     "isDynamicEntry": true,
@@ -7845,7 +7845,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/PeriodSelectionRefactored.vue": {
-    "file": "assets/js/PeriodSelectionRefactored-CrjPPsKl.js",
+    "file": "assets/js/PeriodSelectionRefactored-CIRdGuw8.js",
     "name": "PeriodSelectionRefactored",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/PeriodSelectionRefactored.vue",
     "isDynamicEntry": true,
@@ -7914,7 +7914,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/StudentCard.vue": {
-    "file": "assets/js/StudentCard-Cbw2PWKy.js",
+    "file": "assets/js/StudentCard-C8n8SToE.js",
     "name": "StudentCard",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/StudentCard.vue",
     "isDynamicEntry": true,
@@ -7961,7 +7961,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/TopLeaderboard.vue": {
-    "file": "assets/js/TopLeaderboard-DydZvLIA.js",
+    "file": "assets/js/TopLeaderboard-bdou2bIe.js",
     "name": "TopLeaderboard",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/TopLeaderboard.vue",
     "isDynamicEntry": true,
@@ -8081,7 +8081,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/settings.vue": {
-    "file": "assets/js/settings-BoxOiDii.js",
+    "file": "assets/js/settings-DNKHK1_n.js",
     "name": "settings",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/settings.vue",
     "isDynamicEntry": true,
@@ -8105,7 +8105,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/students_table.vue": {
-    "file": "assets/js/students_table-CJsrUOhe.js",
+    "file": "assets/js/students_table-DqMxNHx3.js",
     "name": "students_table",
     "src": "resources/js/Pages/myclass2026/features/Gamification/reward_sys/reward_sys_comp/students_table.vue",
     "isDynamicEntry": true,
@@ -8400,7 +8400,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/ClassroomRecordsPage.vue": {
-    "file": "assets/js/ClassroomRecordsPage-Ov8z_4r0.js",
+    "file": "assets/js/ClassroomRecordsPage-B68v8yc9.js",
     "name": "ClassroomRecordsPage",
     "src": "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/ClassroomRecordsPage.vue",
     "isDynamicEntry": true,
@@ -8434,7 +8434,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/components/SessionContextBar.vue": {
-    "file": "assets/js/SessionContextBar-CN_yVnqB.js",
+    "file": "assets/js/SessionContextBar-BT0HBUja.js",
     "name": "SessionContextBar",
     "src": "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/components/SessionContextBar.vue",
     "isDynamicEntry": true,
@@ -9795,7 +9795,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/StudentInteract.vue": {
-    "file": "assets/js/StudentInteract-DRshOmY0.js",
+    "file": "assets/js/StudentInteract-dZPrSUK0.js",
     "name": "StudentInteract",
     "src": "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/StudentInteract.vue",
     "isDynamicEntry": true,
@@ -9803,14 +9803,14 @@
       "_gameStore-C-mHOOXy.js",
       "_presentationStore-CcdOUSKc.js",
       "_useRealtimeChannel-BI8ZwsbT.js",
+      "_feature-teacher-portal-Bj6_yTWx.js",
+      "_vendor-firebase-DcYLGjO2.js",
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/student/JoinForm.vue",
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/student/StudentSlideView.vue",
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/student/QuizCard.vue",
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/student/TimerBar.vue",
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/student/StudentScoreHUD.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_feature-teacher-portal-Bj6_yTWx.js",
-      "_vendor-firebase-DcYLGjO2.js",
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/components/EditorCanvas.vue",
@@ -9826,11 +9826,11 @@
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/components/LeaderboardSlide.vue"
     ],
     "css": [
-      "assets/css/StudentInteract-Du2knNxh.css"
+      "assets/css/StudentInteract-Da6tGWIF.css"
     ]
   },
   "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/TeacherPresenter.vue": {
-    "file": "assets/js/TeacherPresenter-DxLE9JuN.js",
+    "file": "assets/js/TeacherPresenter-CBEUaxxR.js",
     "name": "TeacherPresenter",
     "src": "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/TeacherPresenter.vue",
     "isDynamicEntry": true,
@@ -9862,7 +9862,7 @@
       "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/components/LeaderboardSlide.vue"
     ],
     "css": [
-      "assets/css/TeacherPresenter-MF1z_OXD.css"
+      "assets/css/TeacherPresenter-wWGijwGo.css"
     ]
   },
   "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/student/JoinForm.vue": {
@@ -9965,17 +9965,22 @@
     ]
   },
   "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/teacher/ParticipantRoster.vue": {
-    "file": "assets/js/ParticipantRoster-CF1CNyNk.js",
+    "file": "assets/js/ParticipantRoster-CR_AsAuL.js",
     "name": "ParticipantRoster",
     "src": "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/teacher/ParticipantRoster.vue",
     "isDynamicEntry": true,
     "imports": [
       "_gameStore-C-mHOOXy.js",
+      "_useRealtimeChannel-BI8ZwsbT.js",
       "_feature-admin-core-BHhbEbT0.js",
+      "_feature-teacher-portal-Bj6_yTWx.js",
+      "_vendor-firebase-DcYLGjO2.js",
+      "_feature-bm-C_EudJXg.js",
+      "_feature-focus-grid-B6VZgcAT.js",
       "node_modules/xlsx/xlsx.mjs"
     ],
     "css": [
-      "assets/css/ParticipantRoster-CBoWeGBo.css"
+      "assets/css/ParticipantRoster-BMDp7aEs.css"
     ]
   },
   "resources/js/Pages/myclass2026/features/cr/classroom_records_v1/peresentation/v5/remote/components/teacher/QuizLauncher.vue": {
@@ -11018,7 +11023,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/school-admin/system/super_admin/Admin/user_management.vue": {
-    "file": "assets/js/user_management-CDHrQWpx.js",
+    "file": "assets/js/user_management-DS2lv6zO.js",
     "name": "user_management",
     "src": "resources/js/Pages/myclass2026/roles/school-admin/system/super_admin/Admin/user_management.vue",
     "isDynamicEntry": true,
@@ -11336,7 +11341,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/planning/DailyTasks/dp_DailyPlanner.vue": {
-    "file": "assets/js/dp_DailyPlanner-hGzwuocr.js",
+    "file": "assets/js/dp_DailyPlanner-Dgx-fzfe.js",
     "name": "dp_DailyPlanner",
     "src": "resources/js/Pages/myclass2026/roles/teacher/planning/DailyTasks/dp_DailyPlanner.vue",
     "isDynamicEntry": true,
@@ -11555,7 +11560,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/StudentLessonView.vue": {
-    "file": "assets/js/StudentLessonView-D5jj6LKC.js",
+    "file": "assets/js/StudentLessonView-DGsvVUBq.js",
     "name": "StudentLessonView",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/StudentLessonView.vue",
     "isDynamicEntry": true,
@@ -11585,7 +11590,7 @@
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/StepByStepEditor.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/FingerDrawingSlide.vue",
@@ -11643,7 +11648,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/LessonPlayer.vue": {
-    "file": "assets/js/LessonPlayer-qKl4-r4l.js",
+    "file": "assets/js/LessonPlayer-DMXEHQnA.js",
     "name": "LessonPlayer",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/LessonPlayer.vue",
     "isDynamicEntry": true,
@@ -11674,7 +11679,7 @@
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/StepByStepEditor.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/FingerDrawingSlide.vue",
@@ -11831,7 +11836,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/LessonPlayerComp/SlideRenderer.vue": {
-    "file": "assets/js/SlideRenderer-C-Y-MJEB.js",
+    "file": "assets/js/SlideRenderer-BAS-kLA1.js",
     "name": "SlideRenderer",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/LessonPlayerComp/SlideRenderer.vue",
     "isDynamicEntry": true,
@@ -11855,7 +11860,7 @@
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "_QPopupProxy-xSAbhc7L.js"
@@ -12087,7 +12092,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/slides/QuestionSlide.vue": {
-    "file": "assets/js/QuestionSlide-DcaIs1tC.js",
+    "file": "assets/js/QuestionSlide-B-5-jiIB.js",
     "name": "QuestionSlide",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/slides/QuestionSlide.vue",
     "isDynamicEntry": true,
@@ -12110,7 +12115,7 @@
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/StepByStepEditor.vue",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js"
     ],
     "css": [
@@ -12160,7 +12165,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/lesson_presentation.vue": {
-    "file": "assets/js/lesson_presentation-DpiYukEB.js",
+    "file": "assets/js/lesson_presentation-BlvyaHUi.js",
     "name": "lesson_presentation",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/lesson_presentation.vue",
     "isDynamicEntry": true,
@@ -12196,7 +12201,7 @@
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/LessonPlayerComp/PlayerSidebar.vue",
@@ -12229,7 +12234,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/lesson_presentation3.vue": {
-    "file": "assets/js/lesson_presentation3-DbrRmXgW.js",
+    "file": "assets/js/lesson_presentation3-BrYH_F9i.js",
     "name": "lesson_presentation3",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/lesson_presentation3.vue",
     "isDynamicEntry": true,
@@ -12256,7 +12261,7 @@
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue"
     ],
@@ -12265,14 +12270,14 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue": {
-    "file": "assets/js/QuizEngine-DMFD43N6.js",
+    "file": "assets/js/QuizEngine-B_v_WfrN.js",
     "name": "QuizEngine",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -12285,7 +12290,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngineDemo.vue": {
-    "file": "assets/js/QuizEngineDemo-mI-dZfcQ.js",
+    "file": "assets/js/QuizEngineDemo-B1vGz3IY.js",
     "name": "QuizEngineDemo",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngineDemo.vue",
     "isDynamicEntry": true,
@@ -12293,7 +12298,7 @@
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-admin-core-BHhbEbT0.js",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -12306,7 +12311,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngineTest.vue": {
-    "file": "assets/js/QuizEngineTest-BN8mF9dW.js",
+    "file": "assets/js/QuizEngineTest-DQ38O_VG.js",
     "name": "QuizEngineTest",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngineTest.vue",
     "isDynamicEntry": true,
@@ -12315,7 +12320,7 @@
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngine.vue",
       "node_modules/xlsx/xlsx.mjs",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -12327,7 +12332,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngineWithErrorHandling.vue": {
-    "file": "assets/js/QuizEngineWithErrorHandling-DggWZiXG.js",
+    "file": "assets/js/QuizEngineWithErrorHandling-B_Ej2vUr.js",
     "name": "QuizEngineWithErrorHandling",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/QuizEngineWithErrorHandling.vue",
     "isDynamicEntry": true,
@@ -12338,7 +12343,7 @@
       "_useQuizApi-CVyCQQqo.js",
       "_feature-admin-core-BHhbEbT0.js",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -12351,7 +12356,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ErrorDisplay.vue": {
-    "file": "assets/js/ErrorDisplay-B34zJM5d.js",
+    "file": "assets/js/ErrorDisplay-121MCrG7.js",
     "name": "ErrorDisplay",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ErrorDisplay.vue",
     "isDynamicEntry": true,
@@ -12369,12 +12374,12 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ExplanationPanel.vue": {
-    "file": "assets/js/ExplanationPanel-HE7pXihG.js",
+    "file": "assets/js/ExplanationPanel-C9FaWGVa.js",
     "name": "ExplanationPanel",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ExplanationPanel.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -12388,14 +12393,14 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ExplanationPanelDemo.vue": {
-    "file": "assets/js/ExplanationPanelDemo-CZjA3rDL.js",
+    "file": "assets/js/ExplanationPanelDemo-DEuJ1AwR.js",
     "name": "ExplanationPanelDemo",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ExplanationPanelDemo.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ExplanationPanel.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -12421,7 +12426,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/LanguageSwitcher.vue": {
-    "file": "assets/js/LanguageSwitcher-DOMhyi_g.js",
+    "file": "assets/js/LanguageSwitcher-KozsdlsT.js",
     "name": "LanguageSwitcher",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/LanguageSwitcher.vue",
     "isDynamicEntry": true,
@@ -12439,7 +12444,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/LoadingIndicator.vue": {
-    "file": "assets/js/LoadingIndicator-DQ03JQYt.js",
+    "file": "assets/js/LoadingIndicator-DRK4QOFr.js",
     "name": "LoadingIndicator",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/LoadingIndicator.vue",
     "isDynamicEntry": true,
@@ -12470,14 +12475,14 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/MultipleChoiceQuestion.vue": {
-    "file": "assets/js/MultipleChoiceQuestion-NgZ7l5E4.js",
+    "file": "assets/js/MultipleChoiceQuestion-Douty6lH.js",
     "name": "MultipleChoiceQuestion",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/MultipleChoiceQuestion.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/OptionItem.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -12490,13 +12495,13 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/NavigationControls.vue": {
-    "file": "assets/js/NavigationControls-CGtDKV3i.js",
+    "file": "assets/js/NavigationControls-BJqD8Wyi.js",
     "name": "NavigationControls",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/NavigationControls.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -12509,14 +12514,14 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/NavigationControlsDemo.vue": {
-    "file": "assets/js/NavigationControlsDemo-C440IN-N.js",
+    "file": "assets/js/NavigationControlsDemo-BSqgPC07.js",
     "name": "NavigationControlsDemo",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/NavigationControlsDemo.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/NavigationControls.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -12529,13 +12534,13 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/OptionItem.vue": {
-    "file": "assets/js/OptionItem-Cf4HHUX2.js",
+    "file": "assets/js/OptionItem-B0gwQq2P.js",
     "name": "OptionItem",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/OptionItem.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -12548,12 +12553,12 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ProgressIndicator.vue": {
-    "file": "assets/js/ProgressIndicator-D6PTmTd6.js",
+    "file": "assets/js/ProgressIndicator-CQPKY2F3.js",
     "name": "ProgressIndicator",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ProgressIndicator.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -12567,7 +12572,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ProgressIndicatorDemo.vue": {
-    "file": "assets/js/ProgressIndicatorDemo-BrTUkFqD.js",
+    "file": "assets/js/ProgressIndicatorDemo-KKgC-zFK.js",
     "name": "ProgressIndicatorDemo",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ProgressIndicatorDemo.vue",
     "isDynamicEntry": true,
@@ -12575,7 +12580,7 @@
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/ProgressIndicator.vue",
       "node_modules/xlsx/xlsx.mjs",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -12602,7 +12607,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/QuestionImport.vue": {
-    "file": "assets/js/QuestionImport-bNl0MyM-.js",
+    "file": "assets/js/QuestionImport-BP4a1aFR.js",
     "name": "QuestionImport",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/QuestionImport.vue",
     "isDynamicEntry": true,
@@ -12610,7 +12615,7 @@
       "_feature-admin-core-BHhbEbT0.js",
       "_useImportValidation-CYYBr1Mg.js",
       "_ValidationError-D8m6ZBTy.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
@@ -12650,7 +12655,7 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/QuestionRenderer.vue": {
-    "file": "assets/js/QuestionRenderer-DZ0Dh9Pv.js",
+    "file": "assets/js/QuestionRenderer-B14X5oFC.js",
     "name": "QuestionRenderer",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/QuestionRenderer.vue",
     "isDynamicEntry": true,
@@ -12671,14 +12676,14 @@
     ]
   },
   "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/TrueFalseQuestion.vue": {
-    "file": "assets/js/TrueFalseQuestion-RUS3_ZJf.js",
+    "file": "assets/js/TrueFalseQuestion-B5f6wz-i.js",
     "name": "TrueFalseQuestion",
     "src": "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/TrueFalseQuestion.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/myclass2026/roles/teacher/presentation/lesson_presentation/quiz/components/OptionItem.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DmbP_Plv.js",
+      "_useQuizI18n-rKFNLpBL.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -13411,7 +13416,7 @@
     ]
   },
   "resources/js/Pages/old_features/PrivateChat/Chat.vue": {
-    "file": "assets/js/Chat-2Zy-CtDt.js",
+    "file": "assets/js/Chat-CdJD-2pU.js",
     "name": "Chat",
     "src": "resources/js/Pages/old_features/PrivateChat/Chat.vue",
     "isDynamicEntry": true,
@@ -13732,7 +13737,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/StudentLessonView.vue": {
-    "file": "assets/js/StudentLessonView-vqCarL5F.js",
+    "file": "assets/js/StudentLessonView-BDjRKPwi.js",
     "name": "StudentLessonView",
     "src": "resources/js/Pages/old_features/lesson_presentation/StudentLessonView.vue",
     "isDynamicEntry": true,
@@ -13762,7 +13767,7 @@
       "resources/js/Pages/old_features/lesson_presentation/components/questions/StepByStepEditor.vue",
       "resources/js/Pages/old_features/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "resources/js/Pages/old_features/lesson_presentation/components/FingerDrawingSlide.vue",
@@ -13850,7 +13855,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/components/LessonPlayer.vue": {
-    "file": "assets/js/LessonPlayer-D_BWgcFl.js",
+    "file": "assets/js/LessonPlayer-BGT35y_d.js",
     "name": "LessonPlayer",
     "src": "resources/js/Pages/old_features/lesson_presentation/components/LessonPlayer.vue",
     "isDynamicEntry": true,
@@ -13881,7 +13886,7 @@
       "resources/js/Pages/old_features/lesson_presentation/components/questions/StepByStepEditor.vue",
       "resources/js/Pages/old_features/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "resources/js/Pages/old_features/lesson_presentation/components/FingerDrawingSlide.vue",
@@ -14038,7 +14043,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/components/LessonPlayerComp/SlideRenderer.vue": {
-    "file": "assets/js/SlideRenderer-D0z2LMDk.js",
+    "file": "assets/js/SlideRenderer-BgYvPjHX.js",
     "name": "SlideRenderer",
     "src": "resources/js/Pages/old_features/lesson_presentation/components/LessonPlayerComp/SlideRenderer.vue",
     "isDynamicEntry": true,
@@ -14062,7 +14067,7 @@
       "resources/js/Pages/old_features/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "_QPopupProxy-xSAbhc7L.js"
@@ -14308,7 +14313,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/components/slides/QuestionSlide.vue": {
-    "file": "assets/js/QuestionSlide-Cev-tImj.js",
+    "file": "assets/js/QuestionSlide-IIgDsr8r.js",
     "name": "QuestionSlide",
     "src": "resources/js/Pages/old_features/lesson_presentation/components/slides/QuestionSlide.vue",
     "isDynamicEntry": true,
@@ -14331,7 +14336,7 @@
       "_feature-bm-C_EudJXg.js",
       "_feature-focus-grid-B6VZgcAT.js",
       "resources/js/Pages/old_features/lesson_presentation/components/questions/StepByStepEditor.vue",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js"
     ],
     "css": [
@@ -14381,7 +14386,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/lesson_presentation.vue": {
-    "file": "assets/js/lesson_presentation-DDzw3F9E.js",
+    "file": "assets/js/lesson_presentation-5GOKeBVa.js",
     "name": "lesson_presentation",
     "src": "resources/js/Pages/old_features/lesson_presentation/lesson_presentation.vue",
     "isDynamicEntry": true,
@@ -14417,7 +14422,7 @@
       "resources/js/Pages/old_features/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue",
       "resources/js/Pages/old_features/lesson_presentation/components/LessonPlayerComp/PlayerSidebar.vue",
@@ -14452,7 +14457,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/lesson_presentation3.vue": {
-    "file": "assets/js/lesson_presentation3-DQnTDWfu.js",
+    "file": "assets/js/lesson_presentation3-B12CHB4h.js",
     "name": "lesson_presentation3",
     "src": "resources/js/Pages/old_features/lesson_presentation/lesson_presentation3.vue",
     "isDynamicEntry": true,
@@ -14479,7 +14484,7 @@
       "resources/js/Pages/old_features/lesson_presentation/components/questions/QuestionTypeSelector.vue",
       "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "resources/js/Pages/my_class/QuQuestionBankSystem/QuComponents/QuQuestionAIGeneratorDialog.vue"
     ],
@@ -14488,14 +14493,14 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue": {
-    "file": "assets/js/QuizEngine-HqGTVh43.js",
+    "file": "assets/js/QuizEngine-XnoKp8uG.js",
     "name": "QuizEngine",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -14508,7 +14513,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngineDemo.vue": {
-    "file": "assets/js/QuizEngineDemo-DMIvcaa2.js",
+    "file": "assets/js/QuizEngineDemo-ChQEMavr.js",
     "name": "QuizEngineDemo",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngineDemo.vue",
     "isDynamicEntry": true,
@@ -14516,7 +14521,7 @@
       "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
       "_feature-admin-core-BHhbEbT0.js",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -14529,7 +14534,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngineTest.vue": {
-    "file": "assets/js/QuizEngineTest-DOpgFulv.js",
+    "file": "assets/js/QuizEngineTest-BaWeA2Z7.js",
     "name": "QuizEngineTest",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngineTest.vue",
     "isDynamicEntry": true,
@@ -14538,7 +14543,7 @@
       "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngine.vue",
       "node_modules/xlsx/xlsx.mjs",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -14550,7 +14555,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngineWithErrorHandling.vue": {
-    "file": "assets/js/QuizEngineWithErrorHandling-DTdx6vZg.js",
+    "file": "assets/js/QuizEngineWithErrorHandling-CEvorhKw.js",
     "name": "QuizEngineWithErrorHandling",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/QuizEngineWithErrorHandling.vue",
     "isDynamicEntry": true,
@@ -14561,7 +14566,7 @@
       "_useQuizApi-CVyCQQqo.js",
       "_feature-admin-core-BHhbEbT0.js",
       "_feature-quiz-engine-DWiDLZIk.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -14574,7 +14579,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/ErrorDisplay.vue": {
-    "file": "assets/js/ErrorDisplay-DXNYSGw8.js",
+    "file": "assets/js/ErrorDisplay-VTlhKKoV.js",
     "name": "ErrorDisplay",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/ErrorDisplay.vue",
     "isDynamicEntry": true,
@@ -14592,12 +14597,12 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/ExplanationPanel.vue": {
-    "file": "assets/js/ExplanationPanel-C14IvgnH.js",
+    "file": "assets/js/ExplanationPanel-jN-tdwSp.js",
     "name": "ExplanationPanel",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/ExplanationPanel.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -14611,14 +14616,14 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/ExplanationPanelDemo.vue": {
-    "file": "assets/js/ExplanationPanelDemo-Cf0_jSvh.js",
+    "file": "assets/js/ExplanationPanelDemo-DU6lJVk3.js",
     "name": "ExplanationPanelDemo",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/ExplanationPanelDemo.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/old_features/lesson_presentation/quiz/components/ExplanationPanel.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -14644,7 +14649,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/LanguageSwitcher.vue": {
-    "file": "assets/js/LanguageSwitcher-C3QqUM3a.js",
+    "file": "assets/js/LanguageSwitcher-D6trEN2M.js",
     "name": "LanguageSwitcher",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/LanguageSwitcher.vue",
     "isDynamicEntry": true,
@@ -14662,7 +14667,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/LoadingIndicator.vue": {
-    "file": "assets/js/LoadingIndicator-B8gDjwVq.js",
+    "file": "assets/js/LoadingIndicator-3QvpZmGt.js",
     "name": "LoadingIndicator",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/LoadingIndicator.vue",
     "isDynamicEntry": true,
@@ -14693,14 +14698,14 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/MultipleChoiceQuestion.vue": {
-    "file": "assets/js/MultipleChoiceQuestion-1PTe9m-5.js",
+    "file": "assets/js/MultipleChoiceQuestion-smbUmtrm.js",
     "name": "MultipleChoiceQuestion",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/MultipleChoiceQuestion.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/old_features/lesson_presentation/quiz/components/OptionItem.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -14713,13 +14718,13 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/NavigationControls.vue": {
-    "file": "assets/js/NavigationControls-Ca7vvVJb.js",
+    "file": "assets/js/NavigationControls-CxBE5Kmn.js",
     "name": "NavigationControls",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/NavigationControls.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -14732,14 +14737,14 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/NavigationControlsDemo.vue": {
-    "file": "assets/js/NavigationControlsDemo-DJgEcL1j.js",
+    "file": "assets/js/NavigationControlsDemo-bSyBcmJu.js",
     "name": "NavigationControlsDemo",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/NavigationControlsDemo.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/old_features/lesson_presentation/quiz/components/NavigationControls.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -14752,13 +14757,13 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/OptionItem.vue": {
-    "file": "assets/js/OptionItem-BH_EWIo1.js",
+    "file": "assets/js/OptionItem-BhATeUk-.js",
     "name": "OptionItem",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/OptionItem.vue",
     "isDynamicEntry": true,
     "imports": [
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "node_modules/xlsx/xlsx.mjs",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -14771,12 +14776,12 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/ProgressIndicator.vue": {
-    "file": "assets/js/ProgressIndicator-DIZGu33S.js",
+    "file": "assets/js/ProgressIndicator-CqRft6iV.js",
     "name": "ProgressIndicator",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/ProgressIndicator.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
@@ -14790,7 +14795,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/ProgressIndicatorDemo.vue": {
-    "file": "assets/js/ProgressIndicatorDemo-RqdRyfP2.js",
+    "file": "assets/js/ProgressIndicatorDemo-D8J5vanZ.js",
     "name": "ProgressIndicatorDemo",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/ProgressIndicatorDemo.vue",
     "isDynamicEntry": true,
@@ -14798,7 +14803,7 @@
       "_feature-admin-core-BHhbEbT0.js",
       "resources/js/Pages/old_features/lesson_presentation/quiz/components/ProgressIndicator.vue",
       "node_modules/xlsx/xlsx.mjs",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -14825,7 +14830,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/QuestionImport.vue": {
-    "file": "assets/js/QuestionImport-DEH7LqIE.js",
+    "file": "assets/js/QuestionImport-iAlZ-RSo.js",
     "name": "QuestionImport",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/QuestionImport.vue",
     "isDynamicEntry": true,
@@ -14833,7 +14838,7 @@
       "_feature-admin-core-BHhbEbT0.js",
       "_useImportValidation-CYYBr1Mg.js",
       "_ValidationError-D8m6ZBTy.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "node_modules/xlsx/xlsx.mjs",
       "_vendor-firebase-DcYLGjO2.js",
@@ -14873,7 +14878,7 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/QuestionRenderer.vue": {
-    "file": "assets/js/QuestionRenderer-DJllNS4T.js",
+    "file": "assets/js/QuestionRenderer-NVkY2FGn.js",
     "name": "QuestionRenderer",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/QuestionRenderer.vue",
     "isDynamicEntry": true,
@@ -14894,14 +14899,14 @@
     ]
   },
   "resources/js/Pages/old_features/lesson_presentation/quiz/components/TrueFalseQuestion.vue": {
-    "file": "assets/js/TrueFalseQuestion-BcHarr9S.js",
+    "file": "assets/js/TrueFalseQuestion-DUeByaSW.js",
     "name": "TrueFalseQuestion",
     "src": "resources/js/Pages/old_features/lesson_presentation/quiz/components/TrueFalseQuestion.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/Pages/old_features/lesson_presentation/quiz/components/OptionItem.vue",
       "_feature-admin-core-BHhbEbT0.js",
-      "_useQuizI18n-DIi-GX6H.js",
+      "_useQuizI18n-yMpCm5h5.js",
       "resources/js/app.js",
       "_vendor-firebase-DcYLGjO2.js",
       "_feature-teacher-portal-Bj6_yTWx.js",
@@ -15195,7 +15200,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_class/super_admin/Admin/user_management.vue": {
-    "file": "assets/js/user_management-DJ-xFl_R.js",
+    "file": "assets/js/user_management-DdXxINMw.js",
     "name": "user_management",
     "src": "resources/js/Pages/old_features/my_class/super_admin/Admin/user_management.vue",
     "isDynamicEntry": true,
@@ -15328,7 +15333,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/classwork_records.vue": {
-    "file": "assets/js/classwork_records-abSWR2G6.js",
+    "file": "assets/js/classwork_records-5DE2hMg7.js",
     "name": "classwork_records",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/classwork_records.vue",
     "isDynamicEntry": true,
@@ -15704,7 +15709,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys.vue": {
-    "file": "assets/js/reward_sys-Dz0ZQiXX.js",
+    "file": "assets/js/reward_sys-CW4lNFyp.js",
     "name": "reward_sys",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys.vue",
     "isDynamicEntry": true,
@@ -15743,7 +15748,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys2.vue": {
-    "file": "assets/js/reward_sys2-COSGVrJn.js",
+    "file": "assets/js/reward_sys2-BQqJIZOe.js",
     "name": "reward_sys2",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys2.vue",
     "isDynamicEntry": true,
@@ -15815,7 +15820,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/BehaviorIncidents.vue": {
-    "file": "assets/js/BehaviorIncidents-BBQnUKV3.js",
+    "file": "assets/js/BehaviorIncidents-xYJY5CQx.js",
     "name": "BehaviorIncidents",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/BehaviorIncidents.vue",
     "isDynamicEntry": true,
@@ -15875,7 +15880,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/ClassroomSelection.vue": {
-    "file": "assets/js/ClassroomSelection-D_lGllih.js",
+    "file": "assets/js/ClassroomSelection-LVg-_bby.js",
     "name": "ClassroomSelection",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/ClassroomSelection.vue",
     "isDynamicEntry": true,
@@ -15919,7 +15924,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/PeriodSelectionRefactored.vue": {
-    "file": "assets/js/PeriodSelectionRefactored--t61ifeL.js",
+    "file": "assets/js/PeriodSelectionRefactored-GnpeVj4z.js",
     "name": "PeriodSelectionRefactored",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/PeriodSelectionRefactored.vue",
     "isDynamicEntry": true,
@@ -15988,7 +15993,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/StudentCard.vue": {
-    "file": "assets/js/StudentCard-ojQB45RD.js",
+    "file": "assets/js/StudentCard-DebJgQSo.js",
     "name": "StudentCard",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/StudentCard.vue",
     "isDynamicEntry": true,
@@ -16035,7 +16040,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/TopLeaderboard.vue": {
-    "file": "assets/js/TopLeaderboard-BwuVSbHU.js",
+    "file": "assets/js/TopLeaderboard-a2pABHlW.js",
     "name": "TopLeaderboard",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/TopLeaderboard.vue",
     "isDynamicEntry": true,
@@ -16155,7 +16160,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/settings.vue": {
-    "file": "assets/js/settings-B6W02lfe.js",
+    "file": "assets/js/settings-CXaXzrIL.js",
     "name": "settings",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/settings.vue",
     "isDynamicEntry": true,
@@ -16179,7 +16184,7 @@
     ]
   },
   "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/students_table.vue": {
-    "file": "assets/js/students_table-DpfrEAjZ.js",
+    "file": "assets/js/students_table-DL8yV3lh.js",
     "name": "students_table",
     "src": "resources/js/Pages/old_features/my_table_mnger/reward_sys/reward_sys_comp/students_table.vue",
     "isDynamicEntry": true,
@@ -16423,7 +16428,7 @@
     ]
   },
   "resources/js/app.js": {
-    "file": "assets/js/app-DkA2PeH-.js",
+    "file": "assets/js/app-CAsliDji.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
@@ -17791,7 +17796,7 @@
     ]
   },
   "resources/js/loadStyles.js": {
-    "file": "assets/js/loadStyles-iQtx_Gr5.js",
+    "file": "assets/js/loadStyles-jDUU96nv.js",
     "name": "loadStyles",
     "src": "resources/js/loadStyles.js",
     "isDynamicEntry": true,
