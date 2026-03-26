@@ -1,0 +1,1 @@
+import{ac as e,ad as t,ai as o,af as n}from"./feature-classroom-records-BVzcKgo-.js";const l={class:"block font-medium text-sm text-gray-700"},c={key:0},r={key:1},u={__name:"InputLabel",props:{value:String},setup(a){return(s,i)=>(e(),t("label",l,[a.value?(e(),t("span",c,o(a.value),1)):(e(),t("span",r,[n(s.$slots,"default")]))]))}};export{u as _};

@@ -1,0 +1,1 @@
+import{ag as r,ac as o,ad as a,ae as s}from"./feature-classroom-records-BVzcKgo-.js";const c={},t={class:"hidden sm:block"};function d(n,e){return o(),a("div",t,[...e[0]||(e[0]=[s("div",{class:"py-8"},[s("div",{class:"border-t border-gray-200"})],-1)])])}const _=r(c,[["render",d]]);export{_ as S};

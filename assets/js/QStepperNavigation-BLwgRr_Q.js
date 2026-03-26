@@ -1,0 +1,1 @@
+import{o as e,p as a}from"./feature-Communication-CmyvtPLQ.js";import{G as o}from"./feature-classroom-records-BVzcKgo-.js";const n=e({name:"QStepperNavigation",setup(p,{slots:t}){return()=>o("div",{class:"q-stepper__nav"},a(t.default))}});export{n as Q};

@@ -1,1 +1,0 @@
-import{_ as s,b as n,c as t,d as o}from"./comp-section-messages-PXBGd6ZL.js";import"./comp-section-chat-CuoDsS00.js";import"./vendor-firebase-BDM1dRg5.js";const a={name:"ResumeQuestionsManager"};function r(u,e,c,i,m,p){return n(),t("div",null,[...e[0]||(e[0]=[o("h1",null,"Resume Questions Manager",-1)])])}const f=s(a,[["render",r]]);export{f as default};
