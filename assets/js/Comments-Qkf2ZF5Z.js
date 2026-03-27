@@ -1,1 +1,0 @@
-import{_ as t}from"./ResumeCommentsPanel-DPwo20fQ.js";import{V as o,Z as s,a1 as m,B as r}from"./vendor-draggable-tEf0qgFD.js";import"./app-ByedI2Go.js";import"./vendor-firebase-CYOMVQO5.js";const _={__name:"Comments",setup(a){return(n,e)=>(o(),s("div",null,[e[0]||(e[0]=m("h2",null,"Resume Comments",-1)),r(t,{"question-id":null})]))}};export{_ as default};
