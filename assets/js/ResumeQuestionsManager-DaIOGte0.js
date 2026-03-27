@@ -1,0 +1,1 @@
+import{b as s}from"./app-CndZJgSn.js";import{V as n,Z as o,a1 as t}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-CYOMVQO5.js";const a={name:"ResumeQuestionsManager"};function r(u,e,m,i,p,c){return n(),o("div",null,[...e[0]||(e[0]=[t("h1",null,"Resume Questions Manager",-1)])])}const _=s(a,[["render",r]]);export{_ as default};

@@ -1,0 +1,1 @@
+import{b as s}from"./app-CndZJgSn.js";import{V as t,Z as a,a1 as e}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-CYOMVQO5.js";const c={},r={class:"book"};function d(n,o){return t(),a("div",r,[...o[0]||(o[0]=[e("div",{class:"cover"},[e("span",{class:"text"},"Click Me!")],-1)])])}const p=s(c,[["render",d],["__scopeId","data-v-80d31cb7"]]);export{p as default};
