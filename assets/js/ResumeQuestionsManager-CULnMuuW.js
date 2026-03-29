@@ -1,1 +1,0 @@
-import{b as s}from"./app-BnDFOKML.js";import{V as o,Z as t,a1 as n}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-BCO40ktT.js";/* empty css            */const r={name:"ResumeQuestionsManager"};function a(m,e,u,i,p,c){return o(),t("div",null,[...e[0]||(e[0]=[n("h1",null,"Resume Questions Manager",-1)])])}const $=s(r,[["render",a]]);export{$ as default};
