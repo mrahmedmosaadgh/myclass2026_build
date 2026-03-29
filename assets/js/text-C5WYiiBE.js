@@ -1,0 +1,1 @@
+import{b as t}from"./app-D3FnlaMv.js";import{V as e,Z as o}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-BCO40ktT.js";/* empty css            */const c={},r={class:"shine"};function s(n,_){return e(),o("div",r,"UIVERSE")}const m=t(c,[["render",s],["__scopeId","data-v-4f564d86"]]);export{m as default};
