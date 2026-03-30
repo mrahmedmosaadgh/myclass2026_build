@@ -1,1 +1,0 @@
-import{b as t}from"./app-Djrg_XJo.js";import{V as o,Z as a,Y as n}from"./vendor-draggable-tEf0qgFD.js";import"./vendor-firebase-BCO40ktT.js";/* empty css            */const r={},s={class:"standalone-layout"};function c(e,d){return o(),a("div",s,[n(e.$slots,"default",{},void 0,!0)])}const m=t(r,[["render",c],["__scopeId","data-v-ff3d4c2f"]]);export{m as default};
