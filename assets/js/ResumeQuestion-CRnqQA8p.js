@@ -1,0 +1,1 @@
+import{_ as o}from"./ResumeCommentsPanel-TZvSB77S.js";import{V as t,Z as i,B as r}from"./vendor-draggable-tEf0qgFD.js";import"./app-p6y-WM5v.js";import"./vendor-firebase-BCO40ktT.js";/* empty css            */const c={__name:"ResumeQuestion",setup(s){return(e,n)=>(t(),i("div",null,[r(o,{"question-id":e.question.id},null,8,["question-id"])]))}};export{c as default};
