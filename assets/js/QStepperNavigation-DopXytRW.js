@@ -1,0 +1,1 @@
+import{C as e,O as a}from"./app-Du_b7E5v.js";import{h as o}from"./vendor-draggable-DuI17jXH.js";const s=e({name:"QStepperNavigation",setup(p,{slots:t}){return()=>o("div",{class:"q-stepper__nav"},a(t.default))}});export{s as Q};
