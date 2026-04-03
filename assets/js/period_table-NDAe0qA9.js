@@ -1,1 +1,0 @@
-import{V as e,Z as r}from"./vendor-draggable-tEf0qgFD.js";const s={__name:"period_table",props:{periods:{type:Array,required:!0}},emits:["update-periods"],setup(i,{emit:t}){return(p,o)=>(e(),r("div",null," hiiiiiii "))}};export{s as default};
