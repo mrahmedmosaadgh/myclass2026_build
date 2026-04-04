@@ -1,1 +1,0 @@
-import{b as o}from"./app-XKLGHuk6.js";import{V as s,Z as t,a1 as r}from"./vendor-draggable-DuI17jXH.js";const c={},a={class:"hidden sm:block"};function n(d,e){return s(),t("div",a,[...e[0]||(e[0]=[r("div",{class:"py-8"},[r("div",{class:"border-t border-gray-200"})],-1)])])}const l=o(c,[["render",n]]);export{l as S};
